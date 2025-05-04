@@ -18,7 +18,7 @@ public class ModItems {
 	}
 
 	public static void registerModItems() {
-		System.out.println("Mod items registered!");
+		Modtemp.LOGGER.info("Mod items registered!");
 
 		ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
 			entries.add(PINK_GARNET);

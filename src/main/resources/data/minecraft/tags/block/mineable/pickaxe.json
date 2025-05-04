@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "modtemp:pink_garnet_block",
+    "modtemp:raw_pink_garnet_block",
+    "modtemp:pink_garnet_ore",
+    "modtemp:pink_garnet_deepslate_ore"
+  ]
+}
