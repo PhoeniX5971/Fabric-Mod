@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "modtemp:raw_pink_garnet_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "modtemp:raw_pink_garnet"
+  }
+}

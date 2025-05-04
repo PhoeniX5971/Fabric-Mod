@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "modtemp:raw_pink_garnet"
+    }
+  },
+  "pattern": ["###", "###", "###"],
+  "result": {
+    "count": 1,
+    "id": "modtemp:raw_pink_garnet_block"
+  }
+}
