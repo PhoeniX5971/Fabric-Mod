@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "pink_garnet_block",
+  "ingredient": {
+    "item": "modtemp:pink_garnet_deepslate_ore"
+  },
+  "result": {
+    "id": "modtemp:pink_garnet"
+  }
+}
